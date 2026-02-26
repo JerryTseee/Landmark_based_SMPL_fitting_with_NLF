@@ -1,4 +1,5 @@
 # Landmark_based_SMPL_fitting_with_NLF
+Landmark based method for SMPLX shape fitting, and Neural Localizer Fields (NLF) for Continuous 3D Human Pose Estimation
 
 ## Marker Labeling Workflow
 1. Download the SMPLX models from the official website, and put it under the folder (according to the path in code)

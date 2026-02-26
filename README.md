@@ -22,5 +22,6 @@ https://github.com/user-attachments/assets/40c78b38-9f56-49e2-bf5b-efec72ffdcce
 4. Run python demo.py to get the output image and also the obj format smplx model.
 5. Or, run python demo_pkl.py and then demo_rendering.py to get the output pkl and animation video of the input video.
 
-## Original NLF Repo
-https://github.com/isarandi/nlf.git
+## More
+1. Original NLF repo: https://github.com/isarandi/nlf.git
+2. An automated workflow for composing, rendering, and retargeting MMD assets: https://github.com/AfterJourney00/mmd_to_smpl.git

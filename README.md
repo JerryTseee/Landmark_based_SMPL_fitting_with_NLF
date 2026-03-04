@@ -2,6 +2,7 @@
 Landmark based method for SMPLX shape fitting, and Neural Localizer Fields (NLF) for Continuous 3D Human Pose Estimation.
 
 https://github.com/user-attachments/assets/40c78b38-9f56-49e2-bf5b-efec72ffdcce
+<img width="684" height="317" alt="mark" src="https://github.com/user-attachments/assets/d4e38ce9-bcd4-46ef-a475-605203914918" />
 
 
 
